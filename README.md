@@ -1,3 +1,5 @@
-# serum-proteomics-in-ECT-for-major-depressive-episode
+# README
 
-Code for the study will be published once the manuscript is accepted by the journal
+Publising example code. Please reach out by PM if there are questions. 
+
+//Andreas on behalf of all co-authors
